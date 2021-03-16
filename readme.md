@@ -69,7 +69,7 @@ Desenvolvemos a estrutura base de uma aplicação React utilizando:
 Listagem de atividades a fazer
 
 <div>
-  <img alt="Tela da aplicação" src="https://imgur.com/undefined" width="100%">
+  <img alt="Tela da aplicação" src="https://imgur.com/fGkSpkz.png" width="100%">
 </div>
 
 Desenvolvido com ♥ por Milena Hikari
