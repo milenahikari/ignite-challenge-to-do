@@ -17,6 +17,10 @@ Projeto desenvolvido no curso Ignite da Rocketseat 🚀
 
 CHAPTER I - Fundamentos do ReactJS
 
+Desafio: desenvolver uma aplicação onde o seu principal objetivo é adicionar atividades a fazer, permitindo a atualização de marcar/desmarcar uma tarefa concluída e exclusão para treinar um pouco mais sobre manipulação do estado no React.
+
+Link: https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
+
 ---
 
 ## 💻 Tecnologias utilizadas
@@ -43,10 +47,10 @@ Desenvolvemos a estrutura base de uma aplicação React utilizando:
 
 ```bash
   #clonar o repositorio
-  $ git clone https://github.com/milenahikari/ignite-github-explorer.git
+  $ git clone https://github.com/milenahikari/ignite-challenge-to-do.git
 
   #entrar na pasta do projeto
-  $ cd ignite-github-explorer
+  $ cd ignite-challenge-to-do
 
   #instalar as dependencias
   $ yarn
@@ -62,7 +66,7 @@ Desenvolvemos a estrutura base de uma aplicação React utilizando:
 
 ## 📱 Preview do projeto
 
-Listagem de repositórios do Github
+Listagem de atividades a fazer
 
 <div>
   <img alt="Tela da aplicação" src="https://imgur.com/undefined" width="100%">
