@@ -17,7 +17,7 @@ Projeto desenvolvido no curso Ignite da Rocketseat 🚀
 
 CHAPTER I - Fundamentos do ReactJS
 
-Desafio: desenvolver uma aplicação onde o seu principal objetivo é adicionar atividades a fazer, permitindo a atualização de marcar/desmarcar uma tarefa concluída e exclusão para treinar um pouco mais sobre manipulação do estado no React.
+Desafio para treinar os conceitos de React que envolve construir uma aplicação de atividades a fazer
 
 Link: https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
 
