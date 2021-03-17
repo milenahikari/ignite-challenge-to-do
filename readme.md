@@ -17,7 +17,7 @@ Projeto desenvolvido no curso Ignite da Rocketseat 🚀
 
 CHAPTER I - Fundamentos do ReactJS
 
-Desafio para treinar os conceitos de React que envolve construir uma aplicação de atividades a fazer
+DESAFIO 01 - Treinar os conceitos de React que envolve construir uma aplicação de atividades a fazer.
 
 Link: https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
 
